@@ -70,7 +70,7 @@ Traditional wills:
 ## 🧪 Example Transaction
 
 - **Contract Creation Hash**: `0xdd672d4cf6d9fe81ebf8df557a23cf11b4628a4b8b7577faf1c7a0480a25108`
-- **Contract Address** : `0xe64850fd8cdad6c040e55752dd0d10617c83212c`
+- **Contract Address** : `0xad9150a4721b3acade4ecc973c67d8f52c448980`
 - **Network**: [CORE Testnet](https://scan.test2.btcs.network/tx/0xdd672d4cf6d9fe81ebf8df557a23cf11b4628a4b8b7577faf1c7a0480a25108)
 - **Screenshot**:
 
