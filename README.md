@@ -1,4 +1,4 @@
-# 🪙 WillChain – Decentralized Last Will & Testament on Blockchain
+# WillChain – Decentralized Last Will & Testament on Blockchain
 
 ![WillChain Deployment](./66902d63-9e22-4273-8de2-b5d4860d760a.jpg)
 
