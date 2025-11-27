@@ -1,7 +1,5 @@
 # Decentralized Last Will & Testament on Blockchain
 
-![WillChain Deployment](./66902d63-9e22-4273-8de2-b5d4860d760a.jpg)
-
 ## 🔖 Overview
 
 **WillChain** is a decentralized smart contract system that allows users to create, manage, and execute **last wills and testaments** securely on the blockchain. It ensures that a person's assets are distributed to their chosen beneficiaries only upon their confirmed death, removing the need for legal intermediaries or manual execution.
