@@ -73,7 +73,7 @@ Traditional wills:
 
 ---
 
-## 🔧 Smart Contract Example
+## 🔧 Smart Contract Example =>
 
 ```solidity
 function confirmDeath() external onlyExecutor {
